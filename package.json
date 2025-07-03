@@ -2,10 +2,10 @@
   "name": "bold-ex",
   "version": "1.0.0",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "test": "node server.js",
-    "dev": "nodemon server.js",
-    "type": "module"
+    "dev": "nodemon server.js"
   },
   "keywords": [
     "expressjs"
